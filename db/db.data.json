@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "titulo": "Selecione",
+        "descricao": "",
+        "disable": true,
+        "selected": true
+    },
+    {
+        "id": 1,
+        "titulo": "O que é Python",
+        "descricao": "Python é uma linguagem de programação de alto nível, interpretada e versátil, conhecida por sua sintaxe simples e legibilidade. Criada por Guido van Rossum em 1991, é amplamente utilizada em diversos domínios, como desenvolvimento web, científico e automação de tarefas. Python é reconhecida por sua sintaxe clara e concisa, é interpretada e multiplataforma, além de possuir uma biblioteca padrão abrangente.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 2,
+        "titulo": "O que é 'if'",
+        "descricao": "O 'if' é uma estrutura de controle de fluxo utilizada em programação para tomar decisões baseadas em condições. Ele permite que um programa execute determinado bloco de código apenas se uma condição específica for avaliada como verdadeira.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 3,
+        "titulo": "Funções em Python#",
+        "descricao": "Funções em Python são blocos de código reutilizáveis que realizam tarefas específicas. Elas são definidas com def, podem ter argumentos e retornar valores com return. Python oferece flexibilidade com argumentos posicionais, com palavra-chave e padrão, além de aceitar um número variável de argumentos. As funções podem ser atribuídas a variáveis, passadas como argumentos e retornadas por outras funções, tornando Python uma linguagem funcionalmente poderosa.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 4,
+        "titulo": "Objetos em Python#",
+        "descricao": "Em Python, objetos são instâncias de classes que definem seu comportamento e propriedades. Eles possuem atributos e métodos, acessíveis por meio da notação de ponto. A linguagem suporta orientação a objetos dinâmica e princípios como encapsulamento, herança e polimorfismo, permitindo a criação de código modular, flexível e reutilizável.",
+        "disable": false,
+        "selected": false
+    }
+]
